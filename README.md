@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor solution](https://www.frontendmentor.io/solutions/3-card-preview-component-Sd4MTvNrep)
+- Live Site URL: [Live Demo](https://comforting-malabi-2854fe.netlify.app/)
 
 ## My process
 
